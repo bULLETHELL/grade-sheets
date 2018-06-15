@@ -1,0 +1,7 @@
+C:\Users\SDE-04044\Documents\Github\grade-sheets\grade-sheets\grade-sheets\bin\Debug\grade-sheets.exe.config
+C:\Users\SDE-04044\Documents\Github\grade-sheets\grade-sheets\grade-sheets\bin\Debug\grade-sheets.exe
+C:\Users\SDE-04044\Documents\Github\grade-sheets\grade-sheets\grade-sheets\bin\Debug\grade-sheets.pdb
+C:\Users\SDE-04044\Documents\Github\grade-sheets\grade-sheets\grade-sheets\obj\Debug\grade-sheets.csprojResolveAssemblyReference.cache
+C:\Users\SDE-04044\Documents\Github\grade-sheets\grade-sheets\grade-sheets\obj\Debug\grade-sheets.csproj.CoreCompileInputs.cache
+C:\Users\SDE-04044\Documents\Github\grade-sheets\grade-sheets\grade-sheets\obj\Debug\grade-sheets.exe
+C:\Users\SDE-04044\Documents\Github\grade-sheets\grade-sheets\grade-sheets\obj\Debug\grade-sheets.pdb
