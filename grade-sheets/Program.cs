@@ -64,8 +64,9 @@ namespace grade_sheets
                             uInputQuitGrading = Console.ReadLine(); // user input quit grading menu as readline
                         }
 
+                        // TODO: FIX THIS SHIT
                         students.Add(new Student(uInputName, grades, uInputClass)); // adds student to the students list with user inputs as properties
-                         
+                        // TEST Console.WriteLine(students.Count);
                         Console.WriteLine("d. Press 'd' to go back to the main menu\n"); // cw
                         uQuitAdd = Console.ReadLine(); // user quit add menu as readline
                     }
